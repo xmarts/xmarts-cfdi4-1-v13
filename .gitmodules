@@ -1,0 +1,3 @@
+[submodule "cfdi4-enterprise"]
+	path = cfdi4-enterprise
+	url = git@github.com:xmarts/cfdi4-enterprise.git
